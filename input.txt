@@ -1,0 +1,19 @@
+insert-m 1 John_Doe john_doe123
+insert-m 2 Alice_Smith alice_smith123
+insert-m 3 Bob_Johnson bob_johnson456
+insert-m 4 Emma_Davis emma_davis789
+insert-s -u 2 -t 113 City_Break New_York_City,_USA 4
+insert-s -u 2 -t 114 Relaxing_Retreat Bali,_Indonesia 7
+insert-s -u 2 -t 115 Exploring_Ancient_Ruins Egypt 10
+insert-s -u 2 -t 116 Skiing_in_the_Swiss_Alps Switzerland 5
+insert-s -u 2 -t 117 Cruise_around_the_Caribbean Caribbean_Islands 7
+insert-s -u 3 -t 118 Hiking_the_Inca_Trail Machu_Picchu,_Peru 5
+insert-s -u 3 -t 119 Sightseeing_in_Paris Paris,_France 3
+insert-s -u 3 -t 120 Scuba_Diving_in_the_Great_Barrier_Reef Australia 7
+insert-s -u 3 -t 121 Camping_in_Yosemite_National_Park California,_USA 4
+insert-s -u 3 -t 122 Exploring_the_Grand_Canyon Arizona,_USA 3
+insert-s -u 4 -t 123 Cultural_Tour_in_India Delhi,_Jaipur,_Agra 10
+insert-s -u 4 -t 124 Exploring_the_Amazon_Rainforest Brazil 5
+insert-s -u 4 -t 125 Visiting_Ancient_Ruins_in_Greece Athens,_Greece 7
+insert-s -u 4 -t 126 Road_Trip_Across_the_US United_States 14
+insert-s -u 4 -t 127 Island_Hopping_in_Indonesia Indonesia 7

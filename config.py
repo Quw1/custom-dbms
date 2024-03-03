@@ -1,0 +1,5 @@
+MASTER_STORAGE_FILE_NAME = 'master.bin'
+MASTER_INDEX_FILE_NAME = 'master_index.bin'
+SLAVE_STORAGE_FILENAME = 'slave.bin'
+SLAVE_INDEX_FILENAME = 'slave_index.bin'
+SLAVE_JUNK_FILENAME = 'slave_junk.bin'
